@@ -1,0 +1,10 @@
+{
+  "name": "Olive & Ember — Amman",
+  "short_name": "Olive & Ember",
+  "description": "Order fresh shawarma, burgers and crispy chicken in Amman.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#254a37",
+  "icons": []
+}
